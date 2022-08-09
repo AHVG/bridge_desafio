@@ -26,7 +26,7 @@ Para funcionar, é necessário configurar o banco de dados antes de mais nada. D
 ### Método 1 -  Rodando via NetBeans
 ### Passos
 1. Baixe o arquivo zip com todos os arquivos (front-end e back-end) e extraia no local que desejar
-2. Inicie o netBeans. Caso não tenha [baixe aqui](https://netbeans.apache.org/download/nb14/nb14.html) e configure-a
+2. Inicie o netBeans. Caso não tenha [baixe aqui](https://netbeans.apache.org/download/nb14/nb14.html) e configure-o
 3. Abra o arquivo applications que estará no seguinte caminho `.\projeto\back_end\src\main\resources`
 4. Após aberto, para suportar o banco de dados, você terá que alterar as seguintes linhas
 
