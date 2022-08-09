@@ -9,14 +9,14 @@ function Calculator() {
     const [calculationTime, setCalculationTime] = useState();
 
     function calculate(field){
-        fetch("https://backend-bridge-heroku.herokuapp.com/api/add-history",
+        fetch("http://localhost:8080/api/add-history",
             {
                 headers: {
                     'Accept': 'application/json',
                     'Content-Type': 'application/json'
                 },
                 method: "POST",
-                body: JSON.stringify({number: field.number})
+                body: JSON.stringify({number: parseInt(field.number)})
             }
         )
         .then((resp) => resp.json())

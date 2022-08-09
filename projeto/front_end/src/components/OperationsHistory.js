@@ -8,7 +8,7 @@ function OperationsHistory() {
     const [operations, setOperations] = useState([]);
 
     function acessHistory(){
-        fetch("https://backend-bridge-heroku.herokuapp.com/api/access-history")
+        fetch("http://localhost:8080/api/access-history")
         .then((resp) => resp.json())
         .then((data) => setOperations(data))
         .catch((error) => console.log(error));
