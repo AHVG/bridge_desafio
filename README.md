@@ -1,6 +1,6 @@
 # BRIDGE DESAFIO FULL-STACK
 Desafio bridge para fullstack feito por Augusto de H. V. Guerner
-link para o deploy no [Heroku](https://frontend-bridge-heroku.herokuapp.com/)
+link para o deploy no #[Heroku](https://frontend-bridge-heroku.herokuapp.com/)
 
 # Sobre o BACK-END
 Back-end do desafio bridge fullstack
