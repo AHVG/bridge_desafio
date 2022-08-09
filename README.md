@@ -33,7 +33,7 @@ Para funcionar, é necessário configurar o banco de dados antes de mais nada. D
 5. Após carregar tudo certinho, aperte para rodar lá em cima da barra de ferramentas no play verde.
 6. Pronto, o backend está rodando
 
-### Rodando via executável (preferêncial)
+### Rodando via executável (melhor forma)
 ### Passos
 1. Baixe o arquivo zip. 
 2. Extraia o arquivo no local que deseja.
