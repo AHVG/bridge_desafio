@@ -1,19 +1,23 @@
 # BRIDGE DESAFIO FULL-STACK
-Desafio bridge para fullstack feito por Augusto de H. V. Guerner
-link para o deploy no #[Heroku](https://frontend-bridge-heroku.herokuapp.com/)
+Desafio bridge para fullstack feito por AUGUSTO DE HOLLANDA VIEIRA GUERNER
 
-# Sobre o BACK-END
+## [DEPLOY no HEROKU](https://frontend-bridge-heroku.herokuapp.com/)
+
+
+# Sobre o projeto e como rodar localmente
+
+## BACK-END
 Back-end do desafio bridge fullstack
 
-## Quais tecnologias foram utilizadas
+### Quais tecnologias foram utilizadas
 O projeto utiliza o framework [Spring Boot](https://spring.io/projects/spring-boot) e o banco de dados [postgredSQL](https://www.postgresql.org/) para o backend
 
-## Como rodar localmente
+### Como rodar localmente
 Para funcionar, é necessário configurar o banco de dados antes de mais nada. Depois disso, basta executar o programa via IDE ou via executável.
 
-## Configurando o banco de dados
+### Configurando o banco de dados
 
-### Postgresql
+#### Postgresql
 1. Vá neste [link](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) e aperte na primeira opção do seu sistema operacional
 2. Execute o instalador para baixar
 3. Aperte next, next e finish, porém, quando pedir uma senha, escreva a que deseja
@@ -21,10 +25,10 @@ Para funcionar, é necessário configurar o banco de dados antes de mais nada. D
 5. Pronto, o banco de está configurado
 
 
-## Executando o programa
+### Executando o programa
 
-### Método 1 -  Rodando via NetBeans
-### Passos
+#### Método 1 -  Rodando via NetBeans
+#### Passos
 1. Baixe o arquivo zip com todos os arquivos (front-end e back-end) e extraia no local que desejar
 2. Inicie o netBeans. Caso não tenha [baixe aqui](https://netbeans.apache.org/download/nb14/nb14.html) e configure-o
 3. Abra o arquivo applications que estará no seguinte caminho `.\projeto\back_end\src\main\resources`
@@ -48,8 +52,8 @@ spring.datasource.password = database
 7. Após carregar tudo certinho, aperte para rodar lá em cima da barra de ferramentas no play verde
 8. Pronto, o backend está rodando
 
-### Método 2 - Rodando via executável (melhor forma)
-### Passos
+#### Método 2 - Rodando via executável (melhor forma)
+#### Passos
 1. Baixe o arquivo zip com todos os arquivos (front-end e back-end) e extraia no local que desejar
 3. Copie o caminho dele, abra o terminal cmd, digite nele ```cd caminho_copiado``` e aperte enter
 4. Em seguida digite ```mvn clean package``` e copie o nome do arquivo jar gerado na pasta target dentro do projeto.
@@ -57,14 +61,14 @@ spring.datasource.password = database
 6. Pronto, o backend já está rodando
 
 
-# Sobre o FRONT-END
+## FRONT-END
 Front-end do desafio bridge fullstack
 
-## Quais tecnologias foram utilizadas
+### Quais tecnologias foram utilizadas
 O projeto utiliza o [React](https://pt-br.reactjs.org/) para o front-end
 
-## Como abrir localmente 
-## Passos
+### Como abrir localmente 
+### Passos
 1. Abra a IDE que você mais gosta, como por exemplo o visual studio code
 2. Após aberta, abra a pasta do front-end
 3. No terminal, faça um cd para a pasta que contenha o src, ficando assim ```.\front_end``` seu diretória atual
