@@ -6,8 +6,7 @@ link para o deploy no [Heroku](https://frontend-bridge-heroku.herokuapp.com/)
 Back-end do desafio bridge fullstack
 
 ## Quais tecnologias foram utilizadas
-
-...
+O projeto utiliza o framework [Spring Boot](https://spring.io/projects/spring-boot) e o banco de dados [postgredSQL](https://www.postgresql.org/) para o backend
 
 ## Como rodar localmente
 Para funcionar, é necessário configurar o banco de dados antes de mais nada. Depois disso, basta executar o programa via IDE ou via executável.
@@ -62,12 +61,12 @@ spring.datasource.password = database
 Front-end do desafio bridge fullstack
 
 ## Quais tecnologias foram utilizadas
-
-...
+O projeto utiliza o [React](https://pt-br.reactjs.org/) para o front-end
 
 ## Como abrir localmente 
 ## Passos
-1. Abra a IDE que você mais gosta, como por exemplo o visual studio code.
+1. Abra a IDE que você mais gosta, como por exemplo o visual studio code
 2. Após aberta, abra a pasta do front-end
-3. No terminal, faça um cd para a pasta que contenha o src, ficando mais ao menos assim ".\front_end"
-4. Por fim, digite no terminal "npm start", caso não tenha o npm (node package manager), siga o este [TUTORIAL](https://dicasdejavascript.com.br/instalacao-do-nodejs-e-npm-no-windows-passo-a-passo/)
+3. No terminal, faça um cd para a pasta que contenha o src, ficando assim ```.\front_end``` seu diretória atual
+4. Por fim, digite no terminal ```npm install``` e, após terminar de instalar, ```npm start```, caso não tenha o npm (node package manager), siga o este [TUTORIAL](https://dicasdejavascript.com.br/instalacao-do-nodejs-e-npm-no-windows-passo-a-passo/)
+5. Pronto, seu frontend já está rodando
