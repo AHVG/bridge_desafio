@@ -1,6 +1,6 @@
-# bridge_desafio
+# BRIDGE DESAFIO FULL-STACK
 Desafio bridge para fullstack feito por Augusto de H. V. Guerner
-link para o deploy no heroku: <a href="https://frontend-bridge-heroku.herokuapp.com/">Clique aqui</a>
+link para o deploy no [Heroku](https://frontend-bridge-heroku.herokuapp.com/)
 
 # Sobre o BACK-END
 Back-end do desafio bridge fullstack
@@ -56,5 +56,4 @@ Front-end do desafio bridge fullstack
 1. Abra a IDE que você mais gosta, como por exemplo o visual studio code.
 2. Após aberta, abra a pasta do front-end
 3. No terminal, faça um cd para a pasta que contenha o src, ficando mais ao menos assim ".\front_end"
-4. Por fim, digite no terminal "npm start", caso não tenha o npm (node package manager), siga o seguinte tutorial <a href="[[#](https://phoenixnap.com/kb/install-node-js-npm-on-windows)](https://dicasdejavascript.com.br/instalacao-do-nodejs-e-npm-no-windows-passo-a-passo/)">TUTORIAL</a>
-
+4. Por fim, digite no terminal "npm start", caso não tenha o npm (node package manager), siga o este [TUTORIAL](https://dicasdejavascript.com.br/instalacao-do-nodejs-e-npm-no-windows-passo-a-passo/)
