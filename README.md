@@ -2,6 +2,7 @@
 Desafio bridge para fullstack feito por AUGUSTO DE HOLLANDA VIEIRA GUERNER
 
 ## [DEPLOY no HEROKU](https://frontend-bridge-heroku.herokuapp.com/)
+## [Algoritmo do backend](https://www.dcc.fc.up.pt/~pbv/aulas/progimp/teoricas/teorica07.html)
 
 
 # Sobre o projeto e como rodar localmente
